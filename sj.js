@@ -72,3 +72,5 @@ const converter = (color) => {
 		console.log("That is not a proper color!");
 	}
 }
+
+//This was a nice challange!
